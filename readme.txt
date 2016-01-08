@@ -7,3 +7,4 @@ KROELL Maxime maxime.kroell@epsi.fr
 NDOYE Moustapha moustapha.ndoye1@epsi.fr
 LEROUX Hugo hugo.leroux1@epsi.fr
 Directeur de projet: Anas EL GADAR RIFI
+Description: ceci est une description
